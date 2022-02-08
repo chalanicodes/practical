@@ -1,0 +1,7 @@
+1. Strawberry
+2. Apple
+3. Cherry
+4. Banana
+5. Grape
+6. Mango
+7. Orange
