@@ -1,7 +1,5 @@
 1. Strawberry
 2. Papaya
-2. App
-5.---------------
 3. Cherry
 4. Banana
 5. Grape
